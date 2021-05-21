@@ -1,0 +1,7 @@
+{
+    "testFile1":"buildFolder/specs/spec1.js",
+    "testFile2":"buildFolder/specs/spec2.js",
+    "testFile3":"buildFolder/specs/spec3.js",
+    "testFile4":"buildFolder/specs/spec4.js",
+    "testFile5":"buildFolder/specs/spec5.js"
+}

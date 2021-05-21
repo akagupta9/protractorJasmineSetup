@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "declaration": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "outDir": "buildFolder",
+        "types": [
+            "jasmine",
+            "protractor",
+            "node"
+        ],
+        "skipLibCheck": true,
+        "lib": [
+            "es2017",
+            "dom"
+        ]
+    }
+}
